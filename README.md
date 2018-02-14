@@ -7,7 +7,7 @@ In Hog, two players alternate turns trying to be the first to end a turn with at
 To spice up the game, we will play with some special rules:
 
 Pig Out. If any of the dice outcomes is a 1, the current player's score for the turn is 1.<br />
-Example 1: The current player rolls 7 dice, 5 of which are 1's. They score 1 point for the turn.<br />
+  Example 1: The current player rolls 7 dice, 5 of which are 1's. They score 1 point for the turn.<br />
 Example 2: The current player rolls 4 dice, all of which are 3's. Since Pig Out did not occur, they score 12 points for the turn.
 
 Free Bacon. A player who chooses to roll zero dice scores 2 more than the absolute difference between the digits in the opponent's total score.<br />
